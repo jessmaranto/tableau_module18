@@ -110,7 +110,3 @@ o	1 city official map.
 o	1 story.
 o	A text or markdown file with your analysis of the phenomena you uncovered in the data.
 To submit your Challenge assignment, click Submit, and then provide the URL to your Tableau Public workbook along with any additional files used in your analysis.
-note
-You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next module
-
-![image](https://github.com/user-attachments/assets/98dc382a-39a8-4e2d-b6f0-9bb59703c6d0)
