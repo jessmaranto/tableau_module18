@@ -1,4 +1,4 @@
-Link to Tableau Public: https://public.tableau.com/app/profile/jessica.maranto/viz/CITIBIKEFinal/Story1 
+Link to Tableau Public: (https://public.tableau.com/app/profile/jessica.maranto/viz/CITIBIKE1_17315374807450/Story3?publish=yes) 
 *Please download and open in Tableau to view all charts. 
 
 
